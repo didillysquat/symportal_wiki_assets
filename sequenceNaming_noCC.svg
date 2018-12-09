@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" sodipodi:docname="sequenceNaming.svg" inkscape:version="0.91 r13725" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://creativecommons.org/ns#"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-242.5 299.4 268 277.4"
+	 style="enable-background:new -242.5 299.4 268 277.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{enable-background:new    ;}
+	.st1{font-family:'ArialMT';}
+	.st2{font-size:7px;}
+	.st3{font-family:'Arial-BoldItalicMT';}
+	.st4{font-size:9px;}
+	.st5{font-size:8px;}
+	.st6{stroke:#000000;}
+	.st7{fill:#FFFFFF;stroke:#000000;}
+	.st8{fill:none;stroke:#000000;}
+</style>
+<text transform="matrix(1 0 0 1 -184.1441 562.1638)" class="st0"><tspan x="0" y="0" class="st1 st2">(only one </tspan><tspan x="30.7" y="0" class="st3 st2">data_set_sample_sequence </tspan><tspan x="125.3" y="0" class="st1 st2">instance  </tspan><tspan x="0" y="8.4" class="st1 st2">per </tspan><tspan x="12.1" y="8.4" class="st3 st2">clade_collection </tspan><tspan x="68.5" y="8.4" class="st1 st2">shown for illustration’s sake)</tspan></text>
+<g>
+	<text transform="matrix(1 0 0 1 -238.1148 429.3828)" class="st3 st4">data_set_sample_sequence</text>
+	<text transform="matrix(1 0 0 1 -195.4805 440.5083)" class="st1 st5">UID:3245</text>
+	<text transform="matrix(1 0 0 1 -230.3965 450.5083)" class="st1 st5">cladeCollectionFoundIn:1238</text>
+	<text transform="matrix(1 0 0 1 -225.504 460.5083)" class="st1 st5">referenceSequenceOf:452</text>
+	<text transform="matrix(1 0 0 1 -203.9395 470.5083)" class="st1 st5">abundance:676</text>
+	<text transform="matrix(1 0 0 1 -227.0567 480.5083)" class="st1 st5">data_set_sample_from:1321</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 -99.6364 429.3828)" class="st3 st4">data_set_sample_sequence</text>
+	<text transform="matrix(1 0 0 1 -57.0021 440.5083)" class="st1 st5">UID:3246</text>
+	<text transform="matrix(1 0 0 1 -91.9181 450.5083)" class="st1 st5">cladeCollectionFoundIn:None</text>
+	<text transform="matrix(1 0 0 1 -87.0255 460.5083)" class="st1 st5">referenceSequenceOf:452</text>
+	<text transform="matrix(1 0 0 1 -63.2365 470.5083)" class="st1 st5">abundance:4</text>
+	<text transform="matrix(1 0 0 1 -90.8028 479.5083)" class="st1 st5">data_set_sample_from:1322</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 -152.8687 517.4683)" class="st3 st4">reference_sequence</text>
+	<text transform="matrix(1 0 0 1 -124.0167 528.5932)" class="st1 st5">UID:452</text>
+	<text transform="matrix(1 0 0 1 -125.5733 538.5932)" class="st1 st5">name:C3</text>
+	<text transform="matrix(1 0 0 1 -150.6944 548.5932)" class="st1 st5">sequence:AGTCGAA...</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 -186.5953 363.4893)" class="st3 st4">clade_collection</text>
+	<text transform="matrix(1 0 0 1 -168.4803 374.6143)" class="st1 st5">UID:1238</text>
+	<text transform="matrix(1 0 0 1 -198.2752 384.6143)" class="st1 st5">dataSetSampleFrom:1321</text>
+	<text transform="matrix(1 0 0 1 -165.1443 394.6143)" class="st1 st5">clade:C</text>
+</g>
+<g>
+	<path id="path10282-6-5-4" inkscape:connector-curvature="0" class="st6" d="M-151.6,402.5c-0.9,0-1.6-0.7-1.6-1.6s0.7-1.6,1.6-1.6
+		s1.6,0.7,1.6,1.6S-150.7,402.5-151.6,402.5z"/>
+	<path id="path11889-3-0-1" inkscape:connector-curvature="0" class="st7" d="M-151.6,418.9l-3.2-5.5h6.4L-151.6,418.9z"/>
+	<line class="st8" x1="-151.6" y1="400.9" x2="-151.6" y2="413.4"/>
+</g>
+<g>
+	<path id="path10282-6" inkscape:connector-curvature="0" class="st6" d="M-173.8,486.9c-0.6,0.6-1.6,0.6-2.3,0
+		c-0.6-0.6-0.6-1.6,0-2.3c0.6-0.6,1.6-0.6,2.3,0C-173.2,485.2-173.2,486.3-173.8,486.9z"/>
+	<path id="path11889-3" inkscape:connector-curvature="0" class="st7" d="M-152.5,508.1l-6.2-1.7l4.5-4.5L-152.5,508.1z"/>
+	<line class="st8" x1="-175" y1="485.7" x2="-156.5" y2="504.2"/>
+</g>
+<g>
+	<path id="path10282-6_1_" inkscape:connector-curvature="0" class="st6" d="M-43.4,486.9c-0.6-0.6-0.6-1.6,0-2.3
+		c0.6-0.6,1.6-0.6,2.3,0c0.6,0.6,0.6,1.6,0,2.3C-41.8,487.5-42.8,487.5-43.4,486.9z"/>
+	<path id="path11889-3_1_" inkscape:connector-curvature="0" class="st7" d="M-64.7,508.1l1.7-6.2l4.5,4.5L-64.7,508.1z"/>
+	<line class="st8" x1="-42.3" y1="485.7" x2="-60.8" y2="504.2"/>
+</g>
+<text transform="matrix(1 0 0 1 -214.8523 309.3614)"><tspan x="0" y="0" class="st3 st4">data_set_sample </tspan><tspan x="17.3" y="10.8" class="st1 st4">UID:1321 </tspan><tspan x="-10" y="21.6" class="st1 st4">dataSubmissionFrom:3</tspan></text>
+<g>
+	<path id="path10282-6-5-4_1_" inkscape:connector-curvature="0" class="st6" d="M-151.6,339.5c-0.9,0-1.6-0.7-1.6-1.6
+		c0-0.9,0.7-1.6,1.6-1.6s1.6,0.7,1.6,1.6C-150,338.7-150.7,339.5-151.6,339.5z"/>
+	<path id="path11889-3-0-1_1_" inkscape:connector-curvature="0" class="st7" d="M-151.6,351.8l-3.2-5.5h6.4L-151.6,351.8z"/>
+	<line class="st8" x1="-151.6" y1="337.9" x2="-151.6" y2="346.3"/>
+</g>
+<g>
+	<path id="path10282-6-5-4_3_" inkscape:connector-curvature="0" class="st6" d="M-207.1,339.5c-0.9,0-1.6-0.7-1.6-1.6
+		c0-0.9,0.7-1.6,1.6-1.6s1.6,0.7,1.6,1.6C-205.5,338.7-206.3,339.5-207.1,339.5z"/>
+	<path id="path11889-3-0-1_3_" inkscape:connector-curvature="0" class="st7" d="M-207.1,418.9l-3.2-5.5h6.4L-207.1,418.9z"/>
+	<line class="st8" x1="-207.1" y1="337.9" x2="-207.1" y2="413.4"/>
+</g>
+<text transform="matrix(1 0 0 1 -76.3748 309.3613)"><tspan x="0" y="0" class="st3 st4">data_set_sample </tspan><tspan x="17.3" y="10.8" class="st1 st4">UID:1322 </tspan><tspan x="-10" y="21.6" class="st1 st4">dataSubmissionFrom:3</tspan></text>
+<g>
+	<path id="path10282-6-5-4_2_" inkscape:connector-curvature="0" class="st6" d="M-40.1,339.5c-0.9,0-1.6-0.7-1.6-1.6
+		c0-0.9,0.7-1.6,1.6-1.6s1.6,0.7,1.6,1.6C-38.5,338.7-39.2,339.5-40.1,339.5z"/>
+	<path id="path11889-3-0-1_2_" inkscape:connector-curvature="0" class="st7" d="M-40.1,418.9l-3.2-5.5h6.4L-40.1,418.9z"/>
+	<line class="st8" x1="-40.1" y1="337.9" x2="-40.1" y2="413.4"/>
+</g>
+</svg>
