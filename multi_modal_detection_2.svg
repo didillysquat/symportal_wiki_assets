@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 702 421.5" style="enable-background:new 0 0 702 421.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#010101;}
+	.st1{font-family:'ArialMT';}
+	.st2{font-size:18px;}
+	.st3{fill:#010101;stroke:#010101;}
+	.st4{fill:none;}
+	.st5{fill:none;stroke:#010101;stroke-width:2;}
+	.st6{fill:none;stroke:#010101;stroke-width:3;}
+	.st7{fill:none;stroke:#010101;stroke-width:3;stroke-dasharray:2.8461,2.8461;}
+	.st8{fill:none;stroke:#010101;stroke-width:3;stroke-dasharray:2.8587,2.8587;}
+	.st9{fill:none;stroke:#010101;stroke-width:3;stroke-dasharray:2.8684,2.8684;}
+	.st10{fill:none;stroke:#010101;stroke-width:3;stroke-dasharray:3,3;}
+	.st11{fill:none;stroke:#010101;stroke-width:3;stroke-miterlimit:10;}
+</style>
+<text id="XMLID_15_" transform="matrix(1 0 0 1 125.001 390.5449)" class="st0 st1 st2">2c) &lt;  sufficient separation  &gt;</text>
+<g id="flowRoot9372" transform="matrix(0,-1,1,0,-272.67767,881.86133)">
+	<path id="path9381" inkscape:connector-curvature="0" class="st0" d="M797.8,724l-11.8,5.2v-1.8l9.3-4l-9.3-4v-1.8l11.8,5.2V724z"
+		/>
+</g>
+<g id="flowRoot9372-0" transform="matrix(0,1,-1,0,703.1462,787.87236)">
+	<path id="path9381-7" inkscape:connector-curvature="0" class="st0" d="M-692,28.4l-11.8,5.2v-1.8l9.3-4l-9.3-4v-1.8l11.8,5.2V28.4
+		z"/>
+</g>
+<path id="path9720" inkscape:connector-curvature="0" class="st3" d="M444.4,221.5c-0.6,2.2-2.9,3.6-5.1,3s-3.6-2.9-3-5.1
+	s2.9-3.6,5.1-3C443.7,217,445,219.3,444.4,221.5z"/>
+<path id="path9634" inkscape:connector-curvature="0" class="st3" d="M537.2,246.4"/>
+<text id="XMLID_6_" transform="matrix(1 0 0 1 190.6755 52.1831)" class="st0 st1 st2">2b)</text>
+<path id="path9854" inkscape:connector-curvature="0" class="st3" d="M97.6,125c1.4,1.8,1.1,4.5-0.8,5.9c-1.8,1.4-4.5,1.1-5.9-0.8
+	s-1.1-4.5,0.8-5.9S96.2,123.1,97.6,125z"/>
+<path id="XMLID_2_" class="st4" d="M181.1,60.8"/>
+<path id="path9790" inkscape:connector-curvature="0" class="st3" d="M395.1,48.9c0.1-2.3,2-4.1,4.3-4.1s4.1,2,4.1,4.3
+	c-0.1,2.3-2,4.1-4.3,4.1C396.9,53.1,395,51.2,395.1,48.9z"/>
+<path id="path8513-7" inkscape:connector-curvature="0" class="st5" d="M18.4,19.4v334.5h522.9"/>
+<path id="path9325" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccc" class="st6" d="M48.7,344.2
+	c0,0,18.4-215.7,44.5-215.9c32.2,0.1,35.4,126.4,60.3,167.2c28.2,51.3,144.2,47.2,176.8,4.2C362,250.5,373.9,50,399,50
+	c30.3,0.6,54,287.9,54,287.9"/>
+<path id="path9327" inkscape:connector-curvature="0" class="st7" d="M93.1,130.1v282.9"/>
+<path id="path9329" inkscape:connector-curvature="0" class="st8" d="M399,58.4v354.6"/>
+<path id="path9352" inkscape:connector-curvature="0" class="st9" d="M91,128.3h590.3"/>
+<path id="path9416" inkscape:connector-curvature="0" class="st10" d="M398.6,50.9h289.6"/>
+<line id="XMLID_1_" class="st11" x1="91" y1="128.3" x2="181.1" y2="60.8"/>
+<line id="XMLID_3_" class="st11" x1="399" y1="50" x2="234.1" y2="44.8"/>
+<line id="XMLID_5_" class="st11" x1="444.4" y1="221.5" x2="537.2" y2="246.4"/>
+<text id="XMLID_4_" transform="matrix(1 0 0 1 543.3885 255.3978)" class="st1 st2">2a)</text>
+<text id="XMLID_7_" transform="matrix(1 0 0 1 477.3874 96.1761)" class="st1 st2">2d) sufficient similarity</text>
+</svg>
