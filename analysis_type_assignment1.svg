@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" inkscape:export-filename="/Users/humebc/Google Drive/Projects/SymPortal/SymPortalLogicDoc/figures/typeProfileAssignment1.png" sodipodi:docname="typeProfileAssignment1.svg" inkscape:version="0.92.2 5c3e80d, 2017-08-06" inkscape:export-ydpi="600" inkscape:export-xdpi="600" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="58 -33.4 968.2 915.8"
+	 style="enable-background:new 58 -33.4 968.2 915.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{enable-background:new    ;}
+	.st1{font-family:'ArialMT';}
+	.st2{font-size:16px;}
+	.st3{font-family:'Arial-BoldItalicMT';}
+	.st4{font-family:'CourierNewPSMT';}
+	.st5{font-size:18px;}
+	.st6{font-family:'CourierNewPS-BoldMT';}
+</style>
+<text transform="matrix(1 0 0 1 92.7012 0.678)" class="st0"><tspan x="0" y="0" class="st1 st2">1. Determine maximum and minimum relative abundances for each DIV in the </tspan><tspan x="554.9" y="0" class="st3 st2">analysis_type</tspan><tspan x="659.9" y="0" class="st1 st2"> by  </tspan><tspan x="0" y="19.2" class="st1 st2">examining supporting </tspan><tspan x="156.5" y="19.2" class="st3 st2">clade_collection</tspan><tspan x="281" y="19.2" class="st1 st2"> objects. </tspan><tspan x="0" y="38.4" class="st1 st2">a) The abundances of the </tspan><tspan x="186.8" y="38.4" class="st3 st2">analysis_type</tspan><tspan x="291.8" y="38.4" class="st1 st2"> object’s DIVs are summed.</tspan></text>
+<text transform="matrix(1 0 0 1 100.375 388.2635)" class="st4 st5">                              C3   C3a   C3cc</text>
+<text transform="matrix(1 0 0 1 88.375 410.7635)" class="st4 st5">supporting clade_collection 1  0.66 0.18  0.16</text>
+<text transform="matrix(1 0 0 1 88.375 433.2635)" class="st4 st5">supporting clade_collection 2  0.65  </text>
+<text transform="matrix(1 0 0 1 477.2384 433.2635)" class="st6 st5">0.19</text>
+<text transform="matrix(1 0 0 1 520.4454 433.2635)" class="st4 st5">  0.16</text>
+<text transform="matrix(1 0 0 1 88.375 455.995)" class="st4 st5">supporting clade_collection 3  0.67</text>
+<text transform="matrix(1 0 0 1 455.6349 455.995)" class="st6 st5">  </text>
+<text transform="matrix(1 0 0 1 477.2384 455.995)" class="st4 st5">0.18</text>
+<text transform="matrix(1 0 0 1 520.4454 455.995)" class="st6 st5">  </text>
+<text transform="matrix(1 0 0 1 542.049 455.995)" class="st4 st5">0.15</text>
+<text transform="matrix(1 0 0 1 88.375 478.7273)" class="st4 st5">supporting clade_collection 4  0.67 0.16  0.16</text>
+<text transform="matrix(1 0 0 1 88.375 501.2273)" class="st4 st5">supporting clade_collection 5  </text>
+<text transform="matrix(1 0 0 1 422.4279 501.2273)" class="st6 st5">0.75</text>
+<text transform="matrix(1 0 0 1 479.2384 501.2273)" class="st6 st5">0.13</text>
+<text transform="matrix(1 0 0 1 530.4454 501.2273)" class="st4 st5">  </text>
+<text transform="matrix(1 0 0 1 543.049 501.2273)" class="st6 st5">0.13</text>
+<text transform="matrix(1 0 0 1 88.375 523.9598)" class="st4 st5">supporting clade_collection 6  </text>
+<text transform="matrix(1 0 0 1 422.4279 523.9598)" class="st6 st5">0.63</text>
+<text transform="matrix(1 0 0 1 457.6349 523.9598)" class="st4 st5">  0.17  </text>
+<text transform="matrix(1 0 0 1 544.049 523.9598)" class="st6 st5">0.19</text>
+<text transform="matrix(1 0 0 1 89.1485 558.8494)" class="st0"><tspan x="0" y="0" class="st1 st2">2. Check to see if </tspan><tspan x="128.1" y="0" class="st3 st2">clade_collection </tspan><tspan x="257" y="0" class="st1 st2">‘Example1’ contains all DIVs  </tspan><tspan x="0" y="19.2" class="st1 st2">within the maximum and minimum relative abundances of the </tspan><tspan x="438.4" y="19.2" class="st3 st2">analysis_type </tspan></text>
+<text transform="matrix(1 0 0 1 92.9962 614.8631)" class="st0"><tspan x="0" y="0" class="st1 st2">a) DIVs of the </tspan><tspan x="102.3" y="0" class="st3 st2">analysis_type </tspan><tspan x="211.7" y="0" class="st1 st2">in the </tspan><tspan x="255.2" y="0" class="st3 st2">clade_collection </tspan><tspan x="384.2" y="0" class="st1 st2">are summed </tspan></text>
+<text transform="matrix(1 0 0 1 92.9962 637.4793)" class="st4 st5">         C3   C3a  C3cc  C3ab  C3d   C3t   C3z Total DIV</text>
+<text transform="matrix(1 0 0 1 92.9962 659.9793)" class="st4 st5">                                               Seqs  Seqs</text>
+<text transform="matrix(1 0 0 1 92.9962 682.4793)" class="st4 st5">Example1 </text>
+<text transform="matrix(1 0 0 1 190.2119 682.4793)" class="st6 st5">751  210  180</text>
+<text transform="matrix(1 0 0 1 330.6348 682.4793)" class="st4 st5">   12    121   0     0   1274  </text>
+<text transform="matrix(1 0 0 1 665.4893 682.4793)" class="st6 st5">1141</text>
+<text transform="matrix(1 0 0 1 92.9962 728.6726)" class="st0"><tspan x="0" y="0" class="st1 st2">b) Relative abundaces of the </tspan><tspan x="208.1" y="0" class="st3 st2">analysis_type </tspan><tspan x="317.5" y="0" class="st1 st2">in questions’ DIV sequences  </tspan><tspan x="0" y="19.2" class="st1 st2">for </tspan><tspan x="23.1" y="19.2" class="st3 st2">clade_collection </tspan><tspan x="152.1" y="19.2" class="st1 st2">‘Example1 are calculated </tspan></text>
+<text transform="matrix(1 0 0 1 190.2119 774.2879)" class="st4 st5">C3   C3a  C3cc</text>
+<text transform="matrix(1 0 0 1 92.9962 797.0203)" class="st4 st5">Example1</text>
+<text transform="matrix(1 0 0 1 190.2119 797.0203)" class="st4 st5">0.66 0.18 0.16</text>
+<text transform="matrix(1 0 0 1 88.8672 848.8348)" class="st0"><tspan x="0" y="0" class="st1 st5">Result:</tspan><tspan x="56" y="0" class="st3 st5"> analysis_type </tspan><tspan x="184.1" y="0" class="st1 st5">C3-C3a-C3cc IS found in </tspan><tspan x="389.2" y="0" class="st3 st5">clade_collection </tspan><tspan x="534.2" y="0" class="st1 st5">‘Example1’ as the  </tspan><tspan x="0" y="21.6" class="st3 st5">clade_collection </tspan><tspan x="145.1" y="21.6" class="st1 st5">object’s relative abundances are within the maximum and  </tspan><tspan x="0" y="43.2" class="st1 st5">minimum relative abundances of the </tspan><tspan x="294.2" y="43.2" class="st3 st5">analysis_type</tspan></text>
+<text transform="matrix(1 0 0 1 92.375 76.6204)" class="st4 st5">                              C3   C3a  C3cc C3ab C3d C3t C3z Total DIV</text>
+<text transform="matrix(1 0 0 1 92.375 99.1204)" class="st4 st5">                                                              Seqs  Seqs </text>
+<text transform="matrix(1 0 0 1 88.375 121.6204)" class="st4 st5">supporting clade_collection 1  </text>
+<text transform="matrix(1 0 0 1 412.4279 121.6204)" class="st6 st5">1002 220  198</text>
+<text transform="matrix(1 0 0 1 552.8507 121.6204)" class="st4 st5">  0    9   23  0   1453  </text>
+<text transform="matrix(1 0 0 1 822.8947 121.6204)" class="st6 st5">1221</text>
+<text transform="matrix(1 0 0 1 88.375 144.3523)" class="st4 st5">supporting clade_collection 2  </text>
+<text transform="matrix(1 0 0 1 412.4279 144.3523)" class="st6 st5">989  228  192</text>
+<text transform="matrix(1 0 0 1 552.8507 144.3523)" class="st4 st5">  9    8   0   12  1438  </text>
+<text transform="matrix(1 0 0 1 822.8947 144.3523)" class="st6 st5">1209</text>
+<text transform="matrix(1 0 0 1 88.375 167.0848)" class="st4 st5">supporting clade_collection 3  </text>
+<text transform="matrix(1 0 0 1 412.4279 167.0848)" class="st6 st5">999  213  178</text>
+<text transform="matrix(1 0 0 1 552.8507 167.0848)" class="st4 st5">  21   0   7   8   1426  </text>
+<text transform="matrix(1 0 0 1 822.8947 167.0848)" class="st6 st5">1190</text>
+<text transform="matrix(1 0 0 1 88.375 189.8167)" class="st4 st5">supporting clade_collection 4  </text>
+<text transform="matrix(1 0 0 1 412.4279 189.8167)" class="st6 st5">1023 198  199</text>
+<text transform="matrix(1 0 0 1 552.8507 189.8167)" class="st4 st5">  0    4   0   2   1426  </text>
+<text transform="matrix(1 0 0 1 822.8947 189.8167)" class="st6 st5">1220</text>
+<text transform="matrix(1 0 0 1 88.375 212.5486)" class="st4 st5">supporting clade_collection 5  </text>
+<text transform="matrix(1 0 0 1 412.4279 212.5486)" class="st6 st5">1333 190  191</text>
+<text transform="matrix(1 0 0 1 552.8507 212.5486)" class="st4 st5">  4    0   6   5   1729  </text>
+<text transform="matrix(1 0 0 1 822.8947 212.5486)" class="st6 st5">1514</text>
+<text transform="matrix(1 0 0 1 88.375 235.2811)" class="st4 st5">supporting clade_collection 6  </text>
+<text transform="matrix(1 0 0 1 412.4279 235.2811)" class="st6 st5">829  170  193</text>
+<text transform="matrix(1 0 0 1 552.8507 235.2811)" class="st4 st5">  0    18  0   0   1210  </text>
+<text transform="matrix(1 0 0 1 822.8947 235.2811)" class="st6 st5">992</text>
+<text transform="matrix(1 0 0 1 89.7012 299.178)" class="st0"><tspan x="0" y="0" class="st1 st2">b) The relative abundances are calculated as:  </tspan><tspan x="0" y="19.2" class="st1 st2">the DIV abundances/DIV Seqs total (NOT the Total seqs of the </tspan><tspan x="449.1" y="19.2" class="st3 st2">clade_collection</tspan><tspan x="573.6" y="19.2" class="st1 st2">) </tspan><tspan x="0" y="38.4" class="st1 st2">c) The maximum and minimum relative abundances (emboldened) are associated to the </tspan><tspan x="627.9" y="38.4" class="st3 st2">analysis_type </tspan><tspan x="0" y="57.6" class="st1 st2">and used in ITS2 type profile assignment.</tspan></text>
+</svg>
